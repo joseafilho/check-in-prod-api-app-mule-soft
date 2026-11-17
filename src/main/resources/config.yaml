@@ -1,0 +1,4 @@
+http:
+  port: "8081"
+api:
+  id: "resource::6b8bb542-d549-4954-be42-4593e46d46e0:simplified-check-in-papi:1.2.0:oas:zip:api.yaml"
